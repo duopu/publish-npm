@@ -1,0 +1,16 @@
+{
+  "name": "haha-util",
+  "version": "0.0.1",
+  "description": "js工具函数包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "vue",
+    "ts"
+  ],
+  "author": "haha",
+  "license": "ISC"
+}
